@@ -1,2 +1,2 @@
 # Practice
- a repository to record the my practice
+a repository to record the my practice
